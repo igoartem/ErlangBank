@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://C:/Program Files/erl8.2/lib/ic-4.4.2/doc/html/java" />
+      <root url="file://C:/Program Files/erl8.2/lib/jinterface-1.7.1/doc/html/java" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://C:/Program Files/erl8.2/lib/ic-4.4.2/examples/all-against-all" />
+      <root url="file://C:/Program Files/erl8.2/lib/ic-4.4.2/examples/java-client-server" />
+      <root url="file://C:/Program Files/erl8.2/lib/ic-4.4.2/java_src" />
+      <root url="file://C:/Program Files/erl8.2/lib/jinterface-1.7.1/java_src" />
+      <root url="file://C:/Program Files/erl8.2/lib/orber-3.8.2/java_src" />
+    </SOURCES>
+  </library>
+</component>

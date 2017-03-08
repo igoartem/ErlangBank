@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES />
+        <JAVADOC>
+          <root url="file://C:/Program Files/erl8.2/lib/ic-4.4.2/doc/html/java" />
+          <root url="file://C:/Program Files/erl8.2/lib/jinterface-1.7.1/doc/html/java" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://C:/Program Files/erl8.2/lib/ic-4.4.2/examples/all-against-all" />
+          <root url="file://C:/Program Files/erl8.2/lib/ic-4.4.2/examples/java-client-server" />
+          <root url="file://C:/Program Files/erl8.2/lib/ic-4.4.2/java_src" />
+          <root url="file://C:/Program Files/erl8.2/lib/jinterface-1.7.1/java_src" />
+          <root url="file://C:/Program Files/erl8.2/lib/orber-3.8.2/java_src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="java" level="application" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../jinterface-1.5.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
